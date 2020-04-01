@@ -10,12 +10,12 @@ public class PrintCommonPart {
 
     static void printCommonPart(Node h1, Node h2) {
         System.out.println("Common Part: ");
-        while(h1 != null && h2!= null){
-            if(h1.val < h2.val){
+        while (h1 != null && h2 != null) {
+            if (h1.val < h2.val) {
                 h1 = h1.next;
-            }else if(h2.val < h1.val){
+            } else if (h2.val < h1.val) {
                 h2 = h2.next;
-            }else {
+            } else {
                 System.out.print(h1.val + " ");
                 h1 = h1.next;
                 h2 = h2.next;

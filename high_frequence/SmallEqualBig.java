@@ -15,6 +15,7 @@ public class SmallEqualBig {
         }
 
         Node cur = head;
+        // 链表转换成数组
         int i = 0;
         while (cur != null) {
             i++;
@@ -27,14 +28,21 @@ public class SmallEqualBig {
             nodeArr[i] = cur;
             cur = cur.next;
         }
+
+        // 数组的调整
         arrPartition(nodeArr, pivot);
+
+        // 数组转换成链表
         for (i = 1; i != nodeArr.length; i++) {
             nodeArr[i - 1].next = nodeArr[i];
         }
         nodeArr[i - 1].next = null;
+
+        //返回头结点
         return nodeArr[0];
     }
 
+    // 芬兰国旗问题
     private static void arrPartition(Node[] nodeArr, int pivot) {
         int small = -1;
         int big = nodeArr.length;

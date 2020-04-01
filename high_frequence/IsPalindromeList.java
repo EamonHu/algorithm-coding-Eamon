@@ -100,6 +100,7 @@ public class IsPalindromeList {
         return res;
     }
 
+
     public static void main(String[] args) {
         Node head = null;
         System.out.println(isPalindrome2(head));
