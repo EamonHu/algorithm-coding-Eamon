@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d24bad-34b5-4b1c-9711-9d3fca3fdf73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/high_frequence/FindFirstIntersectNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_code/src/Ali_Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword2offer/src/Offer23_EntryNodeOfLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sword2offer/src/Offer35_Clone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high_frequence/IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/high_frequence/IsPalindromeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high_frequence/PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/high_frequence/PrintCommonPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high_frequence/SmallEqualBig.java" beforeDir="false" afterPath="$PROJECT_DIR$/high_frequence/SmallEqualBig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sword2offer/src/Offer24_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/sword2offer/src/Offer24_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/BFSAndDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/CompleteTreeNodeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/GetNextNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/IsBSTAndCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/IsBalanceOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/SerilizeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/白班编程" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm-coding-Eamon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm-coding-Eamon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,130 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/high_frequence/IsPalindromeList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="102" selection-start-line="102" selection-end-line="102" />
-              <folding>
-                <element signature="e#187#188#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/high_frequence/SmallEqualBig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="111" column="25" lean-forward="true" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
-              <folding>
-                <element signature="e#167#168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sword2offer/src/Offer35_Clone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sword2offer/src/Offer23_EntryNodeOfLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-              <folding>
-                <element signature="e#284#294#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/high_frequence/FindFirstIntersectNode.java">
+        <entry file="file://$PROJECT_DIR$/binaryTree/IsBSTAndCBT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interview_code/src/Ali_Code.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="467">
+              <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/high_frequence/Array_To_Stack_Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-              <folding>
-                <element signature="class#ArrayStack#0;class#Array_To_Stack_Queue#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/high_frequence/StackAndQueueConvert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="class#TwoQueueStack#0;class#StackAndQueueConvert#0" />
-                <element signature="e#1487#1488#0" expanded="true" />
-                <element signature="e#1529#1530#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sword2offer/src/Offer24_ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/high_frequence/PrintCommonPart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="5" lean-forward="true" selection-end-line="53" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,9 +49,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>value</find>
+      <find>leval</find>
     </findStrings>
     <replaceStrings>
       <replace>num</replace>
+      <replace>level</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -205,6 +93,14 @@
         <option value="$PROJECT_DIR$/sword2offer/src/Offer35_Clone.java" />
         <option value="$PROJECT_DIR$/sword2offer/src/Offer23_EntryNodeOfLoop.java" />
         <option value="$PROJECT_DIR$/high_frequence/FindFirstIntersectNode.java" />
+        <option value="$PROJECT_DIR$/binaryTree/PreInPosTraversal.java" />
+        <option value="$PROJECT_DIR$/binaryTree/GetNextNode.java" />
+        <option value="$PROJECT_DIR$/binaryTree/SerilizeAndReconstructTree.java" />
+        <option value="$PROJECT_DIR$/binaryTree/IsBalanceOfTree.java" />
+        <option value="$PROJECT_DIR$/binaryTree/IsBSTAndCBT.java" />
+        <option value="$PROJECT_DIR$/binaryTree/CompleteTreeNodeNumber.java" />
+        <option value="$PROJECT_DIR$/binaryTree/BFSAndDFS.java" />
+        <option value="$PROJECT_DIR$/test/白班编程" />
       </list>
     </option>
   </component>
@@ -227,8 +123,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="23" />
+    <option name="x" value="18" />
+    <option name="y" value="34" />
     <option name="width" value="1440" />
     <option name="height" value="805" />
   </component>
@@ -252,18 +148,7 @@
             <path>
               <item name="algorithm-coding-Eamon" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-coding-Eamon" type="462c0819:PsiDirectoryNode" />
-              <item name="high_frequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-coding-Eamon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-coding-Eamon" type="462c0819:PsiDirectoryNode" />
-              <item name="sword2offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-coding-Eamon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-coding-Eamon" type="462c0819:PsiDirectoryNode" />
-              <item name="sword2offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +245,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585384386669</updated>
       <workItem from="1585384388096" duration="12373000" />
-      <workItem from="1585535229645" duration="25112000" />
+      <workItem from="1585535229645" duration="29687000" />
+      <workItem from="1585788699429" duration="6878000" />
     </task>
     <task id="LOCAL-00001" summary="add some algorithm">
       <created>1585409904985</created>
@@ -380,12 +266,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37485000" />
+    <option name="totallyTimeSpent" value="48938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="23" width="1440" height="805" extended-state="0" />
+    <frame x="100" y="44" width="1440" height="805" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,7 +281,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17391305" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17391305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -735,6 +622,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/high_frequence/FindFirstIntersectNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sword2offer/src/Offer23_EntryNodeOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -745,13 +643,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/high_frequence/FindFirstIntersectNode.java">
+    <entry file="file://$PROJECT_DIR$/binaryTree/PreInPosTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="242">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryTree/GetNextNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryTree/SerilizeAndReconstructTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryTree/IsBalanceOfTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryTree/CompleteTreeNodeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryTree/BFSAndDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/白班编程">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="104" column="14" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryTree/IsBSTAndCBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
           </folding>
         </state>
       </provider>
