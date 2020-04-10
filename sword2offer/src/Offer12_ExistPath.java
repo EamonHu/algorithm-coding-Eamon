@@ -11,6 +11,7 @@ public class Offer12_ExistPath {
         return false;
     }
 
+
     private static boolean dfs(char[][] board, char[] words, int i, int j, int k) {
         if (i < 0 || i > board.length || j < 0 || j > board[0].length || board[i][j] != words[k]) {
             return false;
@@ -24,9 +25,10 @@ public class Offer12_ExistPath {
         return res;
     }
 
+
     public static void main(String[] args) {
-        char[] [] board = {{'a','b'},{'c','d'}};
+        char[][] board = {{'a', 'b'}, {'c', 'd'}};
         String word = "abcd";
-        System.out.println(exist(board,word));
+        System.out.println(exist(board, word));
     }
 }
